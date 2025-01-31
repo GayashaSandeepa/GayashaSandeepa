@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I am Gayasha Sandeepa from Kandy, Sri Lanka and I am Enthusiastic about Computer Engineering.😊
+- I am currently studying at Department of Computer Engineering of Faculty of Engineering, University of Peradeniya.
+- Although I'm a beginner at Computer Engineering, I'm looking to work with Projects for devevop my critical thinking and etc. 🌝
+- Reach me at [LinkedIn](https://www.linkedin.com/in/gayasha-sandeepa-608356341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 <!--
 **GayashaSandeepa/GayashaSandeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
